@@ -1,4 +1,4 @@
 <servers>
 <server name="LOVE AYO REK" ca="0" continent_code="IND" country="INDONESIA" country_code="ID" ip="149.56.14.62" port="57116" region="ID" url="https://radio.nasional.online" token="null"/>
-<server name="R A R" ca="0" continent_code="IND" country="SIDOARJO" country_code="ID" ip="96.9.211.138" port="64747" region="ID" url="https://radio.nasional.online" token="null"/>
+<server name="R A R" ca="0" continent_code="IND" country="SIDOARJO" country_code="ID" ip="96.9.211.13" port="64747" region="ID" url="https://radio.nasional.online" token="null"/>
 </servers>
